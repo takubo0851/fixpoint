@@ -25,6 +25,11 @@ Author
 博士前期課程１年　田久保悠一
 
 
+開発環境
+
+XAMPP v3.2.2
+/wampp/htdocs/access.php
+
 date
 
 2017/11/30
